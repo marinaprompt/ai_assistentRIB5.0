@@ -1,0 +1,1 @@
+# ai_assistentRIB5.0
