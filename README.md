@@ -1,6 +1,6 @@
 # ИИ-ассистент для инвест-брокера по недвижимости
 
-[Ссылка на проект](https://t.me/Sofiyavesta_bot)
+[Ссылка на проект: ИИ-ассистент для инвест-брокера по недвижимости](https://t.me/Sofiyavesta_bot)
 
 ![Бот Веста ЗАПИСЬ на консультацию
 ](https://github.com/marinaprompt/ai_assistentRIB5.0/blob/main/%D0%92%D0%B5%D1%81%D1%82%D0%B0%D0%97%D0%90%D0%9F%D0%98%D0%A1%D0%AC%202025-02-27%20%D0%B2%2011.49.57.png?raw=true)
